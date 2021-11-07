@@ -1,0 +1,4 @@
+#忽略
+.idea/
+node_modules/
+*.iml
