@@ -4,3 +4,4 @@ node_modules/
 *.iml
 # 忽略class文件
 *.class
+target/
